@@ -1,2 +1,2 @@
 # src-rpms
-srps for copr builds
+SRPMS for copr builds
